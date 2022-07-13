@@ -1,16 +1,15 @@
-### Hi there 👋
+<p align="center">
+    <img src="https://github-readme-stats.vercel.app/api?username=nickolasflamel1&show_icons=true&hide=&count_private=true&title_color=3382ed&text_color=000000&icon_color=3382ed&bg_color=fffff&hide_border=true&border_color=000000&show_icons=true" alt="nickolasflamel1's GitHub stats">
+</p>
 
-<!--
-**nickolasflamel1/nickolasflamel1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="center">
+  <img align="center" height="190" src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=nickolasflamel1&layout=compact&show_icons=true&hide=&count_private=true&title_color=3382ed&text_color=000000&icon_color=3382ed&bg_color=fffff&hide_border=true&border_color=000000&show_icons=true">
+</p>
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<p align="center">
+<img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/java-colored.svg" width="36" height="36" alt="Java" align="center">
+<img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/mysql-colored.svg" width="36" height="36" alt="MySQL" align="center">
+<img src="https://github.com/devicons/devicon/blob/master/icons/spring/spring-original.svg" width="36" height="36" alt="SpringBoot" align="center">
+<img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/html5-colored.svg" width="36" height="36" alt="HTML5" align="center">
+<img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/css3-colored.svg" width="36" height="36" alt="CSS3" align="center">
+</p>
