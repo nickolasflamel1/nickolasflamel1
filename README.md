@@ -15,5 +15,5 @@
 </p>
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/nickolas-flamel/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="50" height="50"></a>
+  <a href="https://www.linkedin.com/in/nickolas-flamel/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="70" height="70"></a>
 </p>
