@@ -14,6 +14,7 @@
 <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/css3-colored.svg" width="45" height="45" alt="CSS3" align="center">
 </p>
 
+<h4 align="center">Linkedin</h4>
 <p align="center">
   <a href="https://www.linkedin.com/in/nickolas-flamel/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="70" height="70"></a>
 </p>
