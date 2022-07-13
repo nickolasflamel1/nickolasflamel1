@@ -3,7 +3,7 @@
 </p>
 
 <p align="center">
-  <img align="center" height="190" src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=nickolasflamel1&show_icons=true&hide=&count_private=true&title_color=3382ed&text_color=000000&icon_color=3382ed&bg_color=fffff&hide_border=true&border_color=000000&show_icons=true">
+  <img align="center" height="190" src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=nickolasflamel1&layout=compact&show_icons=true&hide=&count_private=true&title_color=3382ed&text_color=000000&icon_color=3382ed&bg_color=fffff&hide_border=true&border_color=000000&show_icons=true">
 </p>
 
 <p align="center">
